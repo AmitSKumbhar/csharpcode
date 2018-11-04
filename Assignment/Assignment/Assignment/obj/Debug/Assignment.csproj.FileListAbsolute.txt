@@ -1,0 +1,6 @@
+I:\KTB_Practice\Assignment\Assignment\Assignment\bin\Debug\Assignment.exe.config
+I:\KTB_Practice\Assignment\Assignment\Assignment\bin\Debug\Assignment.exe
+I:\KTB_Practice\Assignment\Assignment\Assignment\bin\Debug\Assignment.pdb
+I:\KTB_Practice\Assignment\Assignment\Assignment\obj\Debug\Assignment.exe
+I:\KTB_Practice\Assignment\Assignment\Assignment\obj\Debug\Assignment.pdb
+I:\KTB_Practice\Assignment\Assignment\Assignment\obj\Debug\Assignment.csprojResolveAssemblyReference.cache
